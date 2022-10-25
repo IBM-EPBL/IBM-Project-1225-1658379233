@@ -93,6 +93,10 @@ The input to our algorithm is rows of feature vector like departure date, depart
 - [x] Data Flow Diagrams
 - [x] Technology Stack
 
+# PROJECT PLANNING PHASE
+- [x] Prepare Milestone & Activity List
+- [x] Sprint Delivery Plan
+
 
 <hr>
 
